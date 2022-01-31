@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "694029195661",
+    "firebase_url": "https://helal-project-default-rtdb.firebaseio.com",
+    "project_id": "helal-project",
+    "storage_bucket": "helal-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694029195661:android:a10198a96bb07b30cc05c4",
+        "android_client_info": {
+          "package_name": "com.example.helal_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "694029195661-2ht0he7d5o8b72vqpahf94eqhhnsu1km.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.helal_project",
+            "certificate_hash": "d8c740522d26dd1c5b5b6febce5ef5a323ddd3e3"
+          }
+        },
+        {
+          "client_id": "694029195661-jfs2vghtdo188vu9qqf2gt6lvaiahrce.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYk0RPiqppO-abE_vgqf3F86ehOn8ec8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "694029195661-jfs2vghtdo188vu9qqf2gt6lvaiahrce.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
